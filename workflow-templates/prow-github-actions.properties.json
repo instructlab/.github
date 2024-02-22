@@ -1,6 +1,6 @@
 {
-    "name": "Open Labrador Github Actions Workflow",
-    "description": "Open Labrador Github Actions workflow.",
+    "name": "Open Labrador Github Actions Prow",
+    "description": "Open Labrador Github Actions prow.",
     "categories": [
         "Automation"
     ],
