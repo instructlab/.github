@@ -1,0 +1,10 @@
+{
+    "name": "Open Labrador Github Actions Workflow",
+    "description": "Open Labrador Github Actions workflow.",
+    "categories": [
+        "Automation"
+    ],
+    "filePatterns": [
+        "OWNERS"
+    ]
+}
