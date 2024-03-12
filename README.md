@@ -1,2 +1,3 @@
-# Shared Github actions
-Github actions that shared within open-labrador org.
+# InstructLab Community Files
+
+InstructLab GitHub organization community files.
