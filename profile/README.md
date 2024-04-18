@@ -33,12 +33,12 @@ The InstructLab method is driven by taxonomies, which are largely created manual
 - [Repo](https://github.com/instructlab/taxonomy)
 - [Contributing](https://github.com/instructlab/taxonomy/blob/main/CONTRIBUTING.md)
 
-## [Command-line Interface](https://github.com/instructlab/cli)
+## [Command-line Interface](https://github.com/instructlab/instructlab)
 
 This command-line interface for InstructLab will allow you to create models tuned with data you provide using the InstructLab method on your laptop or workstation.
 
-- [Repo](https://github.com/instructlab/cli)
-- [Contributing](https://github.com/instructlab/cli/blob/main/CONTRIBUTING/CONTRIBUTING.md)
+- [Repo](https://github.com/instructlab/instructlab)
+- [Contributing](https://github.com/instructlab/instructlab/blob/main/CONTRIBUTING/CONTRIBUTING.md)
   
 ## Model Training Infrastructure
 
