@@ -1,6 +1,6 @@
 # Welcome to the Lab 🔬
 
-![image](https://github.com/instructlab/community/assets/85503753/25fcefc7-a7ac-4511-90df-dc397ba741d5)
+![image](../assets/logo.png)
 
 ## Why InstructLab
 There are many projects rapidly embracing and extending permissively licensed AI models, but they are faced with three main challenges:
