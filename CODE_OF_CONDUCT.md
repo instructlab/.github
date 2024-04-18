@@ -1,3 +1,3 @@
-# InstructLab/<PROJECT NAME HERE> - Code of Conduct and Covenant
+# InstructLab - Code of Conduct and Covenant
 
 This project adheres to the [InstructLab - Code of Conduct and Covenant](https://github.com/instruct-lab/community/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
