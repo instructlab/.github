@@ -1,6 +1,6 @@
 # Welcome to the Lab 🔬
 
-![image](../assets/logo.png)
+![image](https://github.com/instructlab/.github/blob/main/assets/logo.png)
 
 InstructLab 🐶 uses a novel synthetic data-based alignment tuning method for Large Language Models (LLMs.) The "lab" in InstructLab 🥼 stands for [**L**arge-Scale **A**lignment for Chat**B**ots](https://arxiv.org/abs/2403.01081) [1].
 
