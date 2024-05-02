@@ -76,4 +76,4 @@ How the InstructLab project [governance](https://github.com/instructlab/communit
 
 ### Security
 
-Security policies and practices, including reporting vulnerabilities can be found in our [Security.md](https://github.com/instructlab/community/blob/main/SECURITY.md).
+Security policies and practices, including reporting vulnerabilities can be found in our [Security.md](https://github.com/instructlab/.github/blob/main/SECURITY.md).
