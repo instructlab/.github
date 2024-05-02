@@ -20,4 +20,4 @@ After the initial reply to your report, the security team will keep you informed
 
 ## Security Alerts
 
-We will send announcements of security vulnerabilities and steps to remediate on the [InstructLab Security mailing list](https://groups.google.com/u/2/a/instructlab.ai/g/security). 
+We will send announcements of security vulnerabilities and steps to remediate on the [InstructLab Security mailing list](https://groups.google.com/u/2/a/instructlab.ai/g/security).
