@@ -1,6 +1,7 @@
 # make spellcheck-sort
 # Please keep this file sorted:
 Abhishek
+Acknowledgements
 Akash
 AMDGPU
 arge
@@ -50,6 +51,7 @@ llms
 LLVM
 lora
 Merlinite
+md
 Miniforge
 Mixtral
 MLX
