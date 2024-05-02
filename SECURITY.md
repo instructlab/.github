@@ -6,7 +6,7 @@ The InstructLab team and community take security bugs seriously. We appreciate y
 
 If you think you've identified a security issue in an InstructLab project repository, please DO NOT report the issue publicly via the GitHub issue tracker, Slack Workspace, etc.
 
-Instead, send an email with as many details as possible to [instructlab-sec@osci.io](mailto:instructlab-sec@osci.io). This is a private mailing list for the core maintainers.
+Instead, send an email with as many details as possible to [security-reporting@instructlab.ai](mailto:security-reporting@instructlab.ai). This is a private mailing list for the security team.
 
 Please do not create a public issue.
 
