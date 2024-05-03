@@ -37,7 +37,7 @@ Participation in the InstructLab community is governed by our [Code of Conduct](
 
 ### Governance
 
-Overview of how InstructLab project [governance](https://github.com/instructlab/community/blob/main/governance.md) operates.
+See the [project Governance document](https://github.com/instructlab/community/blob/main/governance.md) for an overview of how InstructLab project operates.
 
 ### Security
 
