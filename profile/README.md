@@ -25,7 +25,7 @@ Take a look at "lab-enhanced" models on the [InstructLab Hugging Face](https://h
 
 ## Get Started with InstructLab
 
-* Check out the [Community README](https://github.com/instructlab/community/blob/main/README.md) to get started with using the project. (Contribution guides are included in this document.)  
+* Check out the [Community README](https://github.com/instructlab/community/blob/main/README.md) to get started with using and contributing to the project.
 * You may wish to read through the [project's FAQ](https://github.com/instructlab/community/blob/main/FAQ.md) to get more familiar with all aspects of InstructLab.
 * You can find all the ways to collaborate with project maintainers and your fellow users of InstructLab beyond GitHub by visiting our [project collaboration](https://github.com/instructlab/community/blob/main/Collaboration.md) page.
 
