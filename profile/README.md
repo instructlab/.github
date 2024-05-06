@@ -17,15 +17,17 @@ There are many projects rapidly embracing and extending permissively licensed AI
 
 **InstructLab is here to solve these problems.**
 
-The project enables community contributors to add additional "skills" or "knowledge" to a particular model ([read more about these in the `taxonomy` README](https://github.com/instructlab/taxonomy/blob/main/README.md)).
+The project enables community contributors to add additional "skills" or "knowledge" to a particular model.
 
-InstructLab's model-agnostic technology gives model upstreams with sufficient infrastructure resources the ability to create regular builds of their open-source licensed models not by rebuilding and retraining the entire model but by composing new skills into it.
+InstructLab's model-agnostic technology gives model upstreams with sufficient infrastructure resources the ability to create regular builds of their open source licensed models not by rebuilding and retraining the entire model but by composing new skills into it.
 
 Take a look at "lab-enhanced" models on the [InstructLab Hugging Face page](https://huggingface.co/instructlab).
 
 ## Get Started with InstructLab
 
 * Check out the [Community README](https://github.com/instructlab/community/blob/main/README.md) to get started with using and contributing to the project.
+* If you want to jump right in, head to the [InstructLab CLI documentation](https://github.com/instructlab/instructlab/blob/main/README.md) to get InstructLab set up and running.
+* Learn more about the [skills and knowledge](https://github.com/instructlab/taxonomy/blob/main/README.md) you can add to models.
 * You may wish to read through the [project's FAQ](https://github.com/instructlab/community/blob/main/FAQ.md) to get more familiar with all aspects of InstructLab.
 * You can find all the ways to collaborate with project maintainers and your fellow users of InstructLab beyond GitHub by visiting our [project collaboration](https://github.com/instructlab/community/blob/main/Collaboration.md) page.
 
