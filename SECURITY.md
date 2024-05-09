@@ -17,3 +17,7 @@ Each report is acknowledged and analyzed by the core maintainers within 3 workin
 Any vulnerability information shared with core maintainers stays within the InstructLab project and will not be disseminated to other projects unless it is necessary to get the issue fixed.
 
 After the initial reply to your report, the security team will keep you informed of the progress towards a fix and full announcement, and may ask for additional information or guidance.
+
+## Security Alerts
+
+We will send announcements of security vulnerabilities and steps to remediate on the [InstructLab Security mailing list](https://groups.google.com/u/2/a/instructlab.ai/g/security).
