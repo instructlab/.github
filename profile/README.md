@@ -33,9 +33,9 @@ Take a look at "lab-enhanced" models on the [InstructLab Hugging Face page](http
 
 ## Community Meetings
 
-For folks getting started with all things InstructLab, it may be easiest for you to join one of our community meetings and speak with project maintainers and other InstructLab collaborators live. You can find details on all of our community meetings, including our open office hours each Thursday, in our detailed [Project Meetings documentation](https://github.com/instructlab/community/blob/main/Collaboration.md#project-meetings). 
+For folks getting started with all things InstructLab, it may be easiest for you to join one of our community meetings and speak with project maintainers and other InstructLab collaborators live. You can find details on all of our community meetings, including our open office hours each Thursday, in our detailed [Project Meetings documentation](https://github.com/instructlab/community/blob/main/Collaboration.md#project-meetings).
 
-Everyone is welcome and encouraged to attend if they will find value in joining. Please note that some meetings are recorded and the recordings [published in our project YouTube channel](https://www.youtube.com/@InstructLab/playlists). The meeting host will advise all attendees if the meeting is being recorded. If you prefer to join camera off or dial in via phone so as to not be actively recorded and/or you prefer not to be on camera during meetings, that is absolutely no problem. 
+Everyone is welcome and encouraged to attend if they will find value in joining. Please note that some meetings are recorded and the recordings [published in our project YouTube channel](https://www.youtube.com/@InstructLab/playlists). The meeting host will advise all attendees if the meeting is being recorded. If you prefer to join camera off or dial in via phone so as to not be actively recorded and/or you prefer not to be on camera during meetings, that is absolutely no problem.
 
 ## Code of Conduct
 
