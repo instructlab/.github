@@ -76,6 +76,7 @@ Radeon
 RDNA
 README
 repo
+repos
 ROCm
 RTX
 RX
