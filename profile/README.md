@@ -31,9 +31,15 @@ Take a look at "lab-enhanced" models on the [InstructLab Hugging Face page](http
 * You may wish to read through the [project's FAQ](https://github.com/instructlab/community/blob/main/FAQ.md) to get more familiar with all aspects of InstructLab.
 * You can find all the ways to collaborate with project maintainers and your fellow users of InstructLab beyond GitHub by visiting our [project collaboration](https://github.com/instructlab/community/blob/main/Collaboration.md) page.
 
+## Community Meetings
+
+For folks getting started with all things InstructLab, it may be easiest for you to join one of our community meetings and speak with project maintainers and other InstructLab collaborators live. You can find details on all of our community meetings, including our open office hours each Thursday, in our detailed [Project Meetings documentation](https://github.com/instructlab/community/blob/main/Collaboration.md#project-meetings). 
+
+Everyone is welcome and encouraged to attend if they will find value in joining. Please note that some meetings are recorded and the recordings [published in our project YouTube channel](https://www.youtube.com/@InstructLab/playlists). The meeting host will advise all attendees if the meeting is being recorded. If you prefer to join camera off or dial in via phone so as to not be actively recorded and/or you prefer not to be on camera during meetings, that is absolutely no problem. 
+
 ## Code of Conduct
 
-Participation in the InstructLab community is governed by our [Code of Conduct](https://github.com/instructlab/community/blob/main/CODE_OF_CONDUCT.md)
+Participation in all aspects of the InstructLab community (including but not limited to community meetings, mailing lists, real-time chat, and the project GitHub repos) is governed by our [Code of Conduct](https://github.com/instructlab/community/blob/main/CODE_OF_CONDUCT.md).
 
 ## Quick Links
 
