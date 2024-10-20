@@ -8,7 +8,7 @@ InstructLab is an approachable open source AI community project. Our community's
 
 ## Who should use InstructLab?
 
-Have you ever asked an LLM a question about a subject you know well, and it gave an incorrect answer? “If only I could submit a patch to fix it,”  you may have thought. With InstructLab, you can! 
+Have you ever asked an LLM a question about a subject you know well, and it gave an incorrect answer? “If only I could submit a patch to fix it,”  you may have thought. With InstructLab, you can!
 
 InstructLab allows anyone to improve an existing LLM by [fine-tuning](https://www.youtube.com/watch?v=4lguiHJHgfo) it with additional data sources. This allows LLMs to continuously gain new knowledge, supplementing gaps in their initial training, even about current events that happened since their pre-training phase.
 
