@@ -50,8 +50,8 @@ LLM
 llms
 LLVM
 lora
-Merlinite
 md
+Merlinite
 Miniforge
 Mixtral
 MLX
@@ -75,6 +75,7 @@ Quantizing
 Radeon
 RDNA
 README
+Reddit
 repo
 repos
 ROCm
