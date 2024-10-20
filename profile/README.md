@@ -4,7 +4,7 @@ Quick Links: [Documentation](https://docs.instructlab.ai/) | [FAQ](https://docs.
 
 ![Banner](https://github.com/instructlab/.github/blob/main/assets/instructlab-banner.png)
 
-InstructLab is an open source, accessible, and model-agnostic AI project that facilitates contributions to existing large language models (LLMs). Our community's mission is to enable anyone to shape the future of generative AI.
+InstructLab is an approachable open source AI community project. Our community's mission is to enable anyone to shape the future of generative AI via the collaborative improvement of open source licensed Granite large language models (LLMs) using InstructLab's model fine tuning technology.
 
 ## Get started
 
