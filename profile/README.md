@@ -4,7 +4,23 @@ Quick Links: [Documentation](https://docs.instructlab.ai/) | [FAQ](https://docs.
 
 ![Banner](https://github.com/instructlab/.github/blob/main/assets/instructlab-banner.png)
 
-InstructLab is an open source, accessible, and model-agnostic AI project that facilitates contributions to existing large language models (LLMs). Our community's mission is to enable anyone to shape the future of generative AI.
+InstructLab is an approachable open source AI community project. Our community's mission is to enable anyone to shape the future of generative AI via the collaborative improvement of open source-licensed Granite large language models (LLMs) using InstructLab's fine-tuning technology.
+
+## Who should use InstructLab?
+
+Have you ever asked an LLM a question about a subject you know well, and it gave an incorrect answer? “If only I could submit a patch to fix it,”  you may have thought. With InstructLab, you can! 
+
+InstructLab allows anyone to improve an existing LLM by [fine-tuning](https://www.youtube.com/watch?v=4lguiHJHgfo) it with additional data sources. This allows LLMs to continuously gain new knowledge, supplementing gaps in their initial training, even about current events that happened since their pre-training phase.
+
+Subject matter experts from any domain—for example, [archaeology](https://github.com/instructlab/taxonomy/pull/1269), [astronomy](https://github.com/instructlab/taxonomy/pull/1159), and [human anatomy](https://github.com/instructlab/taxonomy/pull/742)—can use InstructLab to teach [the Granite LLM family](https://www.ibm.com/granite) new information.
+
+Project users can experiment with making updates to a quantized version of the Granite model and then rebuild that version locally, checking to see if the update improved the quality of the model’s responses. InstructLab’ s  tools allow contributors to both see preview of a newly tuned model, and also check to ensure that a submission to improve the community model is properly composed.
+
+You can learn more about InstructLab and how it works in the [project documentation](https://docs.instructlab.ai/).
+
+## Where can I find more information about the LLMs created by InstructLab?
+
+Check out [InstructLab on Hugging Face](https://huggingface.co/instructlab).
 
 ## Get started
 
@@ -12,25 +28,11 @@ InstructLab is an open source, accessible, and model-agnostic AI project that fa
 * [Contribute to the project](https://github.com/instructlab/instructlab/blob/main/CONTRIBUTING/CONTRIBUTING.md)
 * [Connect with the community](https://github.com/instructlab/community/blob/main/Collaboration.md) to share feedback and ideas, ask questions, and troubleshoot issues.
 
-## Why InstructLab
-
-Many projects are rapidly embracing and extending permissively-licensed AI models, but they face three main challenges:
-
-* Direct contributions to LLMs are not possible. They show up as forks, which are expensive for model creators to maintain, and force consumers to choose a “best-fit” model that isn’t easily extensible.
-* The barrier to entry is high. One’s ability to contribute ideas is limited by their AI/ML expertise. One has to learn how to fork, train, and refine models to see their idea move forward.
-* There is no direct community governance or best practice around review, curation, and distribution of forked models.
-
-InstructLab solves these problems by using [Large-Scale Alignment for ChatBots](https://arxiv.org/abs/2403.01081) [1] (LAB), a new alignment tuning method for LLMs that leverages synthetic data.
-
-InstructLab's model-agnostic technology gives model upstreams the ability to regularly create builds of their open-source-licensed models. This is achieved by composing new skills and knowledge into the model, as opposed to rebuilding and retraining it.
-
-Take a look at LAB-enhanced models on the [InstructLab Hugging Face page](https://huggingface.co/instructlab).
-
 ## Additional information
 
 * [Project governance](https://docs.instructlab.ai/community/GOVERNANCE/)
 * [Security and disclosure policy](https://github.com/instructlab/.github/blob/main/SECURITY.md)
 
-To learn more about InstructLab’s origins, visit the [About Taxonomy](https://docs.instructlab.ai/taxonomy/#welcome-to-the-instructlab-taxonomy) page.
+InstructLab uses [Large-Scale Alignment for ChatBots](https://arxiv.org/abs/2403.01081) [1] (LAB), a new alignment tuning method for LLMs that leverages synthetic data. To learn more about InstructLab’s origins, visit the [About Taxonomy](https://docs.instructlab.ai/taxonomy/#welcome-to-the-instructlab-taxonomy) page.
 
 [1] Shivchander Sudalairaj*, Abhishek Bhandwaldar*, Aldo Pareja*, Kai Xu, David D. Cox, Akash Srivastava*. "LAB: Large-Scale Alignment for ChatBots", arXiv preprint arXiv: 2403.01081, 2024. (* denotes equal contributions)
