@@ -1,6 +1,6 @@
 # Welcome to the 🐶 InstructLab Project
 
-Quick Links: [Documentation](https://docs.instructlab.ai/) | [FAQ](https://docs.instructlab.ai/community/FAQ/) | [Hugging Face](https://huggingface.co/instructlab) | [Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_23c2f092cd6d147c45a9d2b79f815232d6c3e550b56c3b49da24c4b5d2090e8f@group.calendar.google.com) | [Slack](https://join.slack.com/t/instruct-lab/shared_invite/zt-2kieyqiz9-zhXSxGnXk6uL_f3hVbD53g) | [YouTube](https://www.youtube.com/@InstructLab) | [X](https://x.com/InstructLab)
+Quick Links: [Documentation](https://docs.instructlab.ai/) | [FAQ](https://docs.instructlab.ai/community/FAQ/) | [Hugging Face](https://huggingface.co/instructlab) | [Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_23c2f092cd6d147c45a9d2b79f815232d6c3e550b56c3b49da24c4b5d2090e8f@group.calendar.google.com) | [Slack](https://join.slack.com/t/instruct-lab/shared_invite/zt-2kieyqiz9-zhXSxGnXk6uL_f3hVbD53g) | [YouTube](https://www.youtube.com/@InstructLab) | [X](https://x.com/InstructLab) | [Reddit](https://www.reddit.com/r/instructlab/)
 
 ![Banner](https://github.com/instructlab/.github/blob/main/assets/instructlab-banner.png)
 
