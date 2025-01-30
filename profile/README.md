@@ -26,7 +26,7 @@ Check out [InstructLab on Hugging Face](https://huggingface.co/instructlab).
 
 * [Install InstructLab locally](https://docs.instructlab.ai/getting-started/mac_metal/)
 * [Contribute to the InstructLab community model](https://docs.instructlab.ai/taxonomy/)
-* [Contribute to the CLI project code](https://github.com/instructlab/instructlab/blob/main/CONTRIBUTING/CONTRIBUTING.md)
+* [Contribute to the Core project code](https://github.com/instructlab/instructlab/blob/main/CONTRIBUTING/CONTRIBUTING.md)
 * [Connect with the community](https://github.com/instructlab/community/blob/main/Collaboration.md) to share feedback and ideas, ask questions, and troubleshoot issues.
 
 ## Additional information
