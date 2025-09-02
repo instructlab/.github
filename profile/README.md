@@ -22,9 +22,9 @@ To enhance the long-term viability and efficiency of the InstructLab project, a 
 
 We’re excited about this next chapter and believe it will lead to more robust, flexible, and powerful tools for the generative AI community. We encourage you to follow the individual component projects in their new homes and continue contributing to their growth.
 
-SDG: https://github.com/Red-Hat-AI-Innovation-Team/sdg_hub
+SDG: [https://github.com/Red-Hat-AI-Innovation-Team/sdg_hub](https://github.com/Red-Hat-AI-Innovation-Team/sdg_hub)
 
-Training: https://github.com/Red-Hat-AI-Innovation-Team/training_hub
+Training: [https://github.com/Red-Hat-AI-Innovation-Team/training_hub](https://github.com/Red-Hat-AI-Innovation-Team/training_hub)
 
 ---
 
